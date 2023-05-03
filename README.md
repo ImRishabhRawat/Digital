@@ -1,1 +1,1 @@
-# Digital
+# animated using GSAP
